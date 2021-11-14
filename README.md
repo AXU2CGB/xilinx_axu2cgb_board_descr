@@ -20,8 +20,6 @@ Peripheral interfaces include 1 MINI DP interface, 4 USB3.0 interfaces, 1 Gigabi
 <br>
 The following figure shows the structure diagram of the entire development system:
 <br>
-<br>
-The main goal of the project is to create an autonomous Wi-Fi weather station based on STM32F103. ESP-01 is used for transmitt data to server and BME280 for getting temperature, humidity, pressure readings. In the future, this weather station will become part of the smart home.
 <p align="center">
   <img src="git_descr/img/2.jpg" width="350" title="hover text">
 </p>
