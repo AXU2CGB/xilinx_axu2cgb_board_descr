@@ -2,13 +2,10 @@
 <p align="center">
   <img src="git_descr/img/9.jpg" width="350" title="hover text">
 </p>
-
-
 #Original statement:
 <br>
 <br>
 This original tutorial was created by Xinyi Electronic Technology (Shanghai) Co., Ltd. (ALINX). The copyright belongs to our company. If you need to reprint, you need to authorize and indicate the source.
-
 #Introduction:
 <br>
 <br>
@@ -22,7 +19,6 @@ The main goal of the project is to create an autonomous Wi-Fi weather station ba
 <p align="center">
   <img src="git_descr/img/2.jpg" width="350" title="hover text">
 </p>
-
 #ZYNQ chip
 The PS system of the XCZU2CG-1SFVC784E chip integrates two ARM Cortex™-A53 processors with a speed of up to 1.2Ghz and supports level 2 Cache; it also contains two Cortex-R5 processors with a speed of up to 500Mhz.
 <br>
