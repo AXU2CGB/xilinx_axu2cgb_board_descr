@@ -57,10 +57,10 @@ The PS side of the AXU2CGA board is equipped with two Micron DDR4 chips, which f
 <br>
 Among them, U71 and U72 are only mounted on AXU2CGB.
 <p align="center">
-  <img src="git_descr/img/21.jpg" width="350" title="hover text">
+  <img src="git_descr/img/21.png" width="350" title="hover text">
 </p>
 <br>
 The hardware connection of DDR4 on the PS side is shown in Figure 3-1:
 <p align="center">
-  <img src="git_descr/img/19.jpg" width="350" title="hover text">
+  <img src="git_descr/img/19.png" width="350" title="hover text">
 </p>
