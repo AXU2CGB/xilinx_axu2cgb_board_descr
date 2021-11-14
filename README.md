@@ -4,7 +4,6 @@
 </p>
 
 ## Original statement:
-<br>
 this article has been translated from Chinese.
 <br>
 link to the article:
@@ -13,7 +12,6 @@ https://www.cnblogs.com/alinx/p/14296296.html
 <br>
 
 ## Introduction:
-<br>
 AXU2CGA/B is characterized by its small size and extensive peripherals. The main chip adopts Xilinx's Zynq UltraScale+ MPSoCs CG series chip, the model is XCZU2CG-1SFVC784E. Two DDR4 (1GB, 32bit) and one 256Mb QSPI FLASH are mounted on the PS side of AXU2CGA. The PS side of AXU2CGB is equipped with 4 DDR4 (2GB, 32bit), 1 8GB eMMC FLASH memory chip and 1 256Mb QSPI FLASH.
 <br>
 <br>
