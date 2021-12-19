@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="led_test_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="led_test_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="465013070516fs"></ZoomStartTime>
+      <ZoomEndTime time="465013434517fs"></ZoomEndTime>
+      <Cursor1Time time="465013147016fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="248"></NameColumnWidth>
+      <ValueColumnWidth column_width="121"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="7" />
+   <wvobject fp_name="/led_test_tb/sys_clk" type="logic">
+      <obj_property name="ElementShortName">sys_clk</obj_property>
+      <obj_property name="ObjectShortName">sys_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/led_test_tb/rst_n" type="logic">
+      <obj_property name="ElementShortName">rst_n</obj_property>
+      <obj_property name="ObjectShortName">rst_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/led_test_tb/led" type="array">
+      <obj_property name="ElementShortName">led[3:0]</obj_property>
+      <obj_property name="ObjectShortName">led[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/led_test_tb/uut/i_clk" type="logic">
+      <obj_property name="ElementShortName">i_clk</obj_property>
+      <obj_property name="ObjectShortName">i_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/led_test_tb/uut/i_rst_n" type="logic">
+      <obj_property name="ElementShortName">i_rst_n</obj_property>
+      <obj_property name="ObjectShortName">i_rst_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/led_test_tb/uut/o_led" type="array">
+      <obj_property name="ElementShortName">o_led[3:0]</obj_property>
+      <obj_property name="ObjectShortName">o_led[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/led_test_tb/uut/timer_cnt" type="array">
+      <obj_property name="ElementShortName">timer_cnt[31:0]</obj_property>
+      <obj_property name="ObjectShortName">timer_cnt[31:0]</obj_property>
+   </wvobject>
+</wave_config>
