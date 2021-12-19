@@ -1,0 +1,23 @@
+#**********************************************************************************************************
+# platform config system verilog file
+#**********************************************************************************************************
+
+set_global_assignment -name SYSTEMVERILOG_FILE [file join $::quartus(qip_path) "cfg_generic.sv"]
+
+#**********************************************************************************************************
+# end of config
+#**********************************************************************************************************
+
+set_global_assignment -name QIP_FILE [file join $::quartus(qip_path) "advanced_reset/advanced_reset_n.qip"]
+set_global_assignment -name QIP_FILE [file join $::quartus(qip_path) "triggers/std_triggers.qip"]
+set_global_assignment -name QIP_FILE [file join $::quartus(qip_path) "std/std_libs.qip"]
+set_global_assignment -name QIP_FILE [file join $::quartus(qip_path) "mux/std_mux.qip"]
+set_global_assignment -name QIP_FILE [file join $::quartus(qip_path) "comb_gates/std_comb.qip"]
+
+#edge detectors
+set_global_assignment -name SYSTEMVERILOG_FILE [file join $::quartus(qip_path) "std_gf_edge_detector.sv"]
+set_global_assignment -name SYSTEMVERILOG_FILE [file join $::quartus(qip_path) "std_simple_edge_detector.sv"]
+
+#univibrator (elongator)
+set_global_assignment -name SYSTEMVERILOG_FILE [file join $::quartus(qip_path) "std_gf_univibrator.sv"]
+

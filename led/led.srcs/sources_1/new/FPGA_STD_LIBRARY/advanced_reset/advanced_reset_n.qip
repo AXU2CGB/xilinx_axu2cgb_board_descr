@@ -1,0 +1,4 @@
+set_global_assignment -name SYSTEMVERILOG_FILE [file join $::quartus(qip_path) "advanced_reset_n.sv"]
+set_global_assignment -name SYSTEMVERILOG_FILE [file join $::quartus(qip_path) "internal_reset_n.sv"]
+set_global_assignment -name SYSTEMVERILOG_FILE [file join $::quartus(qip_path) "reset.sv"]
+set_global_assignment -name SYSTEMVERILOG_FILE [file join $::quartus(qip_path) "sync_async_reset.sv"]
